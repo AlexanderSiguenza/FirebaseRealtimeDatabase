@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "477839877218",
+    "firebase_url": "https://kotlin-fireabase-27c2f-default-rtdb.firebaseio.com",
+    "project_id": "kotlin-fireabase-27c2f",
+    "storage_bucket": "kotlin-fireabase-27c2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477839877218:android:e6eeb0f86863a193b25d3b",
+        "android_client_info": {
+          "package_name": "edu.udb.loginkotlinfireabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSTLO7E1szwsIIN5edlQ5oWaaZwa_h8ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477839877218:android:87b577dbe6be302bb25d3b",
+        "android_client_info": {
+          "package_name": "edu.udb.realtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSTLO7E1szwsIIN5edlQ5oWaaZwa_h8ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
